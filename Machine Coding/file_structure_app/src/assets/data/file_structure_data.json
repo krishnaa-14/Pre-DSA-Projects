@@ -1,0 +1,52 @@
+{
+    "name" : "Machine Coding",
+    "id" : "1",
+    "isFolder" : true,
+    "items" : [
+        {
+            "name" : "File_structure_app",
+            "id" : "2",
+            "isFolder" : true,
+            "items" : [
+                {
+                    "name" : "readME.md",
+                    "id" : "3",
+                    "isFolder" : false,
+                    "items" : []
+                },
+                {
+                    "name" : "src", 
+                    "id" : "4",
+                    "isFolder" : true,
+                    "items" : [
+                        {
+                            "name" : "Components",
+                            "id" : "5",
+                            "isFolder" : true,
+                            "items" : [
+                                {
+                                    "name" : "folder.jsx",
+                                    "id" : "6",
+                                    "isFolder" : false,
+                                    "items" : []
+                                },
+                                {
+                                    "name" : "main.jsx",
+                                    "id" : "7",
+                                    "isFolder" : false,
+                                    "items" : []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "Counter_app",
+            "id" : "11",
+            "isFolder" : true,
+            "items" : []
+        }
+    ]
+}
